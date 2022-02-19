@@ -45,13 +45,13 @@ console.log(combine)
 
 // If Else Statement
 
-let home = true
-if(home == false){           /// true == false
-    console.log('if block')
-}
-else{
-    console.log('Else block')
-}
+// let home = true
+// if(home == false){           /// true == false
+//     console.log('if block')
+// }
+// else{
+//     console.log('Else block')
+// }
 
 // let number = prompt('Enter a number')
 
