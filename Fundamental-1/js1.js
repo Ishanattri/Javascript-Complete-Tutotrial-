@@ -8,7 +8,7 @@
 // ES6(2015) --> Es11(2020)  (Modern Javascript)
 
 // comments single line
-/* mutliline comment
+/* multiline comment
 kasjdhfkjha
 aslfdkjlakdsf
 alksfj
@@ -105,7 +105,7 @@ console.log(motherNameFatherName)
 let _ishan = 3
 console.log(_ishan+'23')  //print(_ishan+a)
 
-// Concatination
+// Concatenation
 let firstNames = 'Himanshu'
 let lastNames = 'Agrawal'
 console.log(firstNames+ ' ' +lastNames)
