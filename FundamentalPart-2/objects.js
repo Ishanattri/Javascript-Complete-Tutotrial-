@@ -48,6 +48,12 @@ console.log(Object.keys(person1))   // returns the array containing objects prop
 // console.log(Object.caller(checking.allInfo()))
 console.log(`hello i am ishan attri ${person1.stream} ${person1.name}`)
 console.log('Hello this is sample text')
+
+
+
+
+
+
 // const arrowChecking  = {
 //     name: 'oney',
 //     class : 10,
